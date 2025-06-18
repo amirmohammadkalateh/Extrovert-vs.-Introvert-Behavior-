@@ -1,7 +1,4 @@
 # Extrovert-vs.-Introvert-Behavior-
-Given the context of a previous conversation about predicting data using deep learning, with specific requirements like `LabelEncoder`, `GridSearchCV`/`RandomizedSearchCV`, and `EarlyStopping`/`TensorBoard`, and the fact that we encountered an `AttributeError` related to `scikeras` and `scikit-learn` versioning, I will structure the `README.md` to address these points.
-
-Here's a plan for the README:
 
 1.  **Project Title:** Clear and descriptive.
 2.  **Introduction:** Briefly describe what the project does (predicts data using deep learning, handles categorical features, tunes hyperparameters).
